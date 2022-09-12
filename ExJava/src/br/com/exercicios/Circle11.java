@@ -11,7 +11,7 @@ public class Circle11 {
 		double radius = input.nextDouble();
 		
 		double perimeter = 2 * Math.PI * radius;
-		double area = Math.PI * radius * radius;
+		double area = Math.PI * Math.pow (radius, 2);
 		
 		System.out.println("The perimeter is: " + perimeter);
 		System.out.println("The area is: " + area);
