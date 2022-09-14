@@ -1,4 +1,4 @@
-package br.com.exercicios;
+package br.com.variados;
 
 import java.util.Iterator;
 import java.util.Scanner;

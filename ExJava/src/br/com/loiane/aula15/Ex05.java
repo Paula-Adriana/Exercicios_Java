@@ -1,4 +1,4 @@
-package br.com.exercicios.loiane.aula15;
+package br.com.loiane.aula15;
 
 import java.util.Scanner;
 

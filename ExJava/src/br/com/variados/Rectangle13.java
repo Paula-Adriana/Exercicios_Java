@@ -1,4 +1,4 @@
-package br.com.exercicios;
+package br.com.variados;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
