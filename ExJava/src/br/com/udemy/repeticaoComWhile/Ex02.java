@@ -1,4 +1,4 @@
-package br.com.udemy.repeticao;
+package br.com.udemy.repeticaoComWhile;
 
 import java.util.Scanner;
 
