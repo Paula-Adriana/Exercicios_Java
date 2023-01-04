@@ -1,14 +1,12 @@
 package br.com.udemy.sequencial;
 
 import java.text.DecimalFormat;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Ex04 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		Locale.setDefault(Locale.US);
 		DecimalFormat format = new DecimalFormat("R$ #,##0.00");
 
 		System.out.print("Digite o número do funcionário: ");

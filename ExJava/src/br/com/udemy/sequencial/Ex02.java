@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Ex02 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		DecimalFormat format = new DecimalFormat("##.####");
+		DecimalFormat format = new DecimalFormat("##.0000");
 		
 		System.out.println("Digite o valor do raio: ");
 		double raio = sc.nextDouble();

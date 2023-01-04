@@ -21,5 +21,7 @@ public class Ex03 {
 		
 		System.out.println("A diferença do produto A e B pelo produto de C e D é: " + 
 		((num1*num2) - (num3*num4)));
+		
+		sc.close();
 	}
 }
