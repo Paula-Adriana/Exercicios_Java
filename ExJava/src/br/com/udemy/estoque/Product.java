@@ -5,20 +5,20 @@ import java.text.DecimalFormat;
 public class Product {
 
 	private String name;
-	private double price;
+	private Double price;
 	private int quantity;
 	
 	public Product() {
 		super();
 	}
 	
-	public Product(String name, double price) {
+	public Product(String name, Double price) {
 		super();
 		this.name = name;
 		this.price = price;
 	}
 
-	public Product(String name, double price, int quantity) {
+	public Product(String name, Double price, int quantity) {
 		this.name = name;
 		this.price = price;
 		this.quantity = quantity;
